@@ -1,0 +1,38 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Minesweeper (Java)/*
+!/Minesweeper (Java)/task/
+/Minesweeper (Java)/task/*
+!/Minesweeper (Java)/task/src
+
+# Project exclude paths
+/Topics/Stack/Deque output/out/
+/Topics/Stack/Deque output/out/production/classes/
+/Topics/Stack/Getting the max element of a stack/out/
+/Topics/Stack/Getting the max element of a stack/out/production/classes/
+/Topics/Stack/Html Parser/out/
+/Topics/Stack/Html Parser/out/production/classes/
+/Topics/Stack/Match methods/out/
+/Topics/Stack/Match methods/out/production/classes/
+/Topics/Stack/Methods/out/
+/Topics/Stack/Methods/out/production/classes/
+/Topics/Stack/Stack implementation/out/
+/Topics/Stack/Stack implementation/out/production/classes/
+/Topics/Stack/The LIFO principle in action/out/
+/Topics/Stack/The LIFO principle in action/out/production/classes/
+/Topics/Stack/Theory/out/
+/Topics/Stack/Theory/out/production/classes/
+/Topics/Stack/Using deque/out/
+/Topics/Stack/Using deque/out/production/classes/
+/Topics/Stack/Which brackets are balanced/out/
+/Topics/Stack/Which brackets are balanced/out/production/classes/
